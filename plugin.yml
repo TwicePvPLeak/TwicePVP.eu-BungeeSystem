@@ -1,0 +1,27 @@
+name: TwicePvPBungeeSystem
+version: 1.0
+author: Feuerwolf1
+main: de.Feuerwolf1.TwicePvPBungeeSystem.Main
+
+commands:
+     Ban:
+          description: Banne einen Spieler!
+          usage:
+     Unban:
+          description: Entbanne einen Spieler!
+          usage:
+     Tempban:
+          description: Banne einen Spieler zeitlich!
+          usage:
+     Strafen:
+          description: Zeige dir deine Strafen an!
+          usage:
+     Hacks:
+          description: Automatisches Hacksystem!
+          usage:
+     Warn:
+          description: Warne einen Spieler!
+          usage:
+     Warns:
+          description: Deine Warns!
+          usage:
